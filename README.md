@@ -8,6 +8,8 @@ Playing with examples for QR creation
 - [Generating QR Code for the vCard | proxyroot.com](https://proxyroot.com/vr-card-to-qr-code/)
 - [Generate vCard using Python | gist gerwin3](https://gist.github.com/gerwin3/ef9ae04d2b156c405db45dc70b93f716)
 - [VCard 4.0 Specification RFC 6350](https://www.rfc-editor.org/rfc/rfc6350)
+- [How to Scan QR Codes in Web Browsers With Web Workers and jsQR | howtogeek.com](https://www.howtogeek.com/devops/how-to-scan-qr-codes-in-web-browsers-with-web-workers-and-jsqr/)
+- [How to Create a QR Code Reader for Your Mobile Website](https://www.sitepoint.com/create-qr-code-reader-mobile-website/)
 
 ## Installation requirements
 
